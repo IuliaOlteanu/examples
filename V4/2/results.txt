@@ -1,0 +1,20 @@
+Pentru vectorul de 10 intregi:
+54, 24, 687, 43, 67, 336, 45, 98, 12, 87
+introdus de la tastatura outputul corect al programului este:
+
+$ ./file
+10 30 31 33 75
+v[0] = 54
+v[1] = 24
+v[2] = 687
+v[3] = 43
+v[4] = 67
+v[5] = 336
+v[6] = 45
+v[7] = 98
+v[8] = 12
+v[9] = 87
+54 24 687 43 67 336 45 98 12 87
+0
+1
+336

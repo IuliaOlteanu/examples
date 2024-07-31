@@ -1,0 +1,3 @@
+Indexul este 3
+Stringul este  mMpqefd
+Stringul inversat este dfeqpMm
